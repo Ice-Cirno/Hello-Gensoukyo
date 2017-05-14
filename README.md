@@ -1,2 +1,2 @@
-# Hello-Gensoukyo
+# Hello-Gensoukyou
 Start GitHub
